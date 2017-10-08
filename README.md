@@ -348,6 +348,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Ruby/Rails
 
+- http://shawnlindsey.com/blog/ruby-test-questions-the-great-big-ruby-test/
 - https://github.com/sagivo/algorithms
 - https://github.com/gregstallings/ruby-trivia
 - https://github.com/rishiip/ruby-on-rails-interview-questions
