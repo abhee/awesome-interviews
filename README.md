@@ -202,6 +202,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html
 - http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html
 - http://www.programmerinterview.com/index.php/java-questions/java-introduction/
+- http://kundansingh.com/interview/
 
 ## JavaScript
 
